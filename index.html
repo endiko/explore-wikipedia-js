@@ -1,0 +1,23 @@
+doctype html
+html(lang='ru')
+  head
+    meta(charset="utf-8")
+    title Your Title's Here
+    meta(content="" name="author")
+    meta(content="" name="description")
+    meta(content="" name="keywords")
+    meta(content="width=device-width, initial-scale=1.0" name="viewport")
+    meta(content="ie=edge" http-equiv="x-ua-compatible")
+    link(rel="stylesheet" href="style.css")
+  body
+    main.main
+    .container
+      header.header
+        .header__wrapper
+          a(href="#").logo__link
+            img(src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Test_wiki_logo_notext.png/900px-Test_wiki_logo_notext.png" alt="Wikipedia logo").logo
+          form.search-form
+            input(type="search" id="searchInput" placeholder="Your request is here...").search-form__input
+            span.no-results
+            button.search-form__btn Find
+      ul.result__list
