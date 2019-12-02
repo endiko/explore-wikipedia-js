@@ -1,4 +1,5 @@
-# explore-wikipedia-js
-Simple search Wikipedia's articles using Wikipedia API &amp; Javascript &amp; Pug &amp; SCSS
+## Explore Wikipedia (Javascript)
 
-#training_js
+#### Search Wikipedia's articles using Wikipedia API &amp; Javascript &amp; Pug &amp; SCSS
+
+#### [See demo](https://codepen.io/endiko/pen/mvoXgj?editors=0010) - Codepen.io
